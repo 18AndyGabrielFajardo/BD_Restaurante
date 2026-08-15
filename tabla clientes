@@ -1,0 +1,12 @@
+NSERT INTO clientes (id, nombre, telefono, email) 
+VALUES
+    (1,  'Fernando Ramos', '8811-2233', 'fer.ramos@gmail.com'),
+    (2,  'Lucía Morales',  '8822-3344', 'lucia.m@gmail.com'),
+    (3,  'Roberto Díaz',   '8833-4455', 'roberto.d@gmail.com'),
+    (4,  'Gabriela Silva', '8844-5566', 'gaby.silva@gmail.com'),
+    (5,  'Jorge Mendoza',  '8855-6677', 'jorge.m@gmail.com'),
+    (6,  'Patricia Cruz',  '8866-7788', 'patty.cruz@gmail.com'),
+    (7,  'Mario Reyes',    '8877-8899', 'mario.reyes@gmail.com'),
+    (8,  'Carmen Vargas',  '8888-9900', 'carmen.v@gmail.com'),
+    (9,  'Alejandro Ríos', '8899-0011', 'ale.rios@gmail.com'),
+    (10, 'Claudia Meza',   '8800-1122', 'claudia.m@gmail.com');
