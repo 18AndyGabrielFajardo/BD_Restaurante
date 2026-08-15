@@ -1,0 +1,1 @@
+SELECT id, mesa_id, cliente_id, fecha_hora, personas, estado FROM reservaciones;
