@@ -1,0 +1,11 @@
+SELECT 
+    c.nombre AS cliente, 
+    SUM(r.numero_personas) AS total_personas_acumuladas
+FROM 
+    clientes c
+INNER JOIN 
+    reservaciones r ON c.id = r.cliente_id
+GROUP BY 
+    c.id, c.nombre
+HAVING 
+    SUM(r.numero_personas) > 4;
