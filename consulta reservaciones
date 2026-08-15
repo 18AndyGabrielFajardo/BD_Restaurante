@@ -1,0 +1,7 @@
+SELECT 
+    c.nombre AS cliente, 
+    r.fecha_hora AS fecha_y_hora
+FROM 
+    clientes c
+INNER JOIN 
+    reservaciones r ON c.id = r.cliente_id;
