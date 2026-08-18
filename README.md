@@ -15,7 +15,7 @@
 
 |TABLA|DESCRIPCION|
 
-|---|---|
+|--------------  |--------------------------------------------------------------------------------------------------------------------------------------------|
 |categorias      |Clasifica el menú del restaurante|
 |platillos       |Guarda el menú del restaurante con su nombre, descripción, precio, categoría a la que pertenece y si está disponible.|
 |mesas           |Administra los espacios del restaurante, indicando el número de mesa, su capacidad de personas y su estado (disponible, ocupada, reservada).|
