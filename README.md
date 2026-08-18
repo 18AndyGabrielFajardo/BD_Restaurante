@@ -16,11 +16,11 @@
 |TABLA|DESCRIPCION|
 
 |---|---|
-|categorias      |Clasifica el menú del restaurante
-|platillos       |Guarda el menú del restaurante con su nombre, descripción, precio, categoría a la que pertenece y si está disponible.
-|mesas           |Administra los espacios del restaurante, indicando el número de mesa, su capacidad de personas y su estado (disponible, ocupada, reservada).
-|pedidos         |Registra una orden realizada en una mesa específica, guardando el estado de la cuenta, el monto total y la fecha/hora.
-|detalles_pedidos|Relaciona cada pedido con los platillos solicitados, indicando la cantidad de cada uno y el precio unitario cobrado.
-|clientes        |Almacena la información de contacto de las personas que realizan reservaciones.
-|empleados       |Registra al personal del restaurante con sus datos de contacto y puesto de trabajo.
-|reservaciones   |Administra las citas agendadas por los clientes vinculándolos con una mesa, fecha, hora y número de comensales.
+|categorias      |Clasifica el menú del restaurante|
+|platillos       |Guarda el menú del restaurante con su nombre, descripción, precio, categoría a la que pertenece y si está disponible.|
+|mesas           |Administra los espacios del restaurante, indicando el número de mesa, su capacidad de personas y su estado (disponible, ocupada, reservada).|
+|pedidos         |Registra una orden realizada en una mesa específica, guardando el estado de la cuenta, el monto total y la fecha/hora.|
+|detalles_pedidos|Relaciona cada pedido con los platillos solicitados, indicando la cantidad de cada uno y el precio unitario cobrado.|
+|clientes        |Almacena la información de contacto de las personas que realizan reservaciones.|
+|empleados       |Registra al personal del restaurante con sus datos de contacto y puesto de trabajo.|
+|reservaciones   |Administra las citas agendadas por los clientes vinculándolos con una mesa, fecha, hora y número de comensales.|
