@@ -13,7 +13,7 @@
 
 ![IMAGEN DE LA BASE DE DATOS]<img width="961" height="741" alt="image" src="https://github.com/user-attachments/assets/4978f305-5f6c-4e4d-9e8d-f648b391ca97" />
 
-|TABLA|DESCRIPCION
+|TABLA|DESCRIPCION|
 
 |---|---|
 |categorias      |Clasifica el menú del restaurante
