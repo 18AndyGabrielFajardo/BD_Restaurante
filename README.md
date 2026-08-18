@@ -1,5 +1,5 @@
 # *REPOSITORIO BASE DE DATOS-RESTAURANTE*
-## INFORMATICA
+## ANALISIS Y DISEÑO
 ## **INTEGRANTES:**
 ### IVANA BUEZO 10
 ### SOPHIA MARROQUIN 16
@@ -9,6 +9,6 @@
 ### RICARDO FUENTES 40
 ### WALTER GERARDO 43
 
-[Visitar Github](https://github.com/18AndyGabrielFajardo/BD_Restaurante)
+[Visitar Supabase](https://supabase.com/dashboard/project/sxcmwgrmlufziszfjczi)
 
-![IMAGEN DE LA BASE DE DATOS](https://scontent.ftgu2-3.fna.fbcdn.net/v/t1.15752-9/766674037_1793057231690281_5888875133702712127_n.png?_nc_cat=109&ccb=1-7&_nc_sid=fc17b8&_nc_ohc=5-psdzr1n-wQ7kNvwFE62Q-&_nc_oc=AdpjCwOoHLH0PCloxLrDe081JaNGYavto-eHuBZD-guYFB2_lTUFmZ0XiiyVqTLoKRo&_nc_zt=23&_nc_ht=scontent.ftgu2-3.fna&_nc_ss=7caaf&oh=03_Q7cD6AGMCnGM6-sYBE0vgnE4SUd1xBgl6Y18tOgBkHHpwqYftQ&oe=6AAAE31F)
+![IMAGEN DE LA BASE DE DATOS]<img width="1126" height="757" alt="771307252_4621402834742961_7071408778168768214_n" src="https://github.com/user-attachments/assets/79e08cda-71b2-44f6-96d2-0259fd791680" />
