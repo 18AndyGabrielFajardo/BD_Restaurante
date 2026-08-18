@@ -13,6 +13,7 @@
 
 ![IMAGEN DE LA BASE DE DATOS]<img width="1126" height="757" alt="771307252_4621402834742961_7071408778168768214_n" src="https://github.com/user-attachments/assets/79e08cda-71b2-44f6-96d2-0259fd791680" />
 |TABLA|DESCRIPCION
+|---|---|
 |categorias   |Clasifica el menú del restaurante
 |platillos    |Guarda el menú del restaurante con su nombre, descripción, precio, categoría a la que pertenece y si está disponible.
 |mesas        |Administra los espacios del restaurante, indicando el número de mesa, su capacidad de personas y su estado (disponible, ocupada, reservada).
